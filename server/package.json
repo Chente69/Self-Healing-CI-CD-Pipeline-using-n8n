@@ -1,0 +1,16 @@
+{
+  "name": "graphqltutorial",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.14.2",
+    "nodemon": "^3.1.14"
+  }
+}

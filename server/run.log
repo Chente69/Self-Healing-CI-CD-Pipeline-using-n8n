@@ -1,0 +1,9 @@
+npm notice run graphqltutorial@1.0.0 start
+npm notice run nodemon index.js
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+Your api is running at: http://localhost:4000/
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
