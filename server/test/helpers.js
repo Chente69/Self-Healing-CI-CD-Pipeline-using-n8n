@@ -3,7 +3,7 @@ const { ApolloServer } = require('apollo-server');
 const { typeDefs, resolvers } = require('../schema');
 const { userList, moviesList } = require('../data/data');
 
-const server = new ApolloServer({ typeDefs, resolvers });
+//const server = new ApolloServer({ typeDefs, resolvers });
 
 const clone = (value) => JSON.parse(JSON.stringify(value));
 
